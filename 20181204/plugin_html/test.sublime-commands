@@ -1,0 +1,7 @@
+[
+{ "caption":"example plugin","command":"example"},
+{ "caption":"create table","command":"sql_createtable"},
+{ "caption":"selectarea plugin","command":"select_area"},
+{ "caption":"userinput plugin","command":"user_input"},
+{ "caption":"htmltag plugin","command":"html_tag"}
+]

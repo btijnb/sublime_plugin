@@ -1,0 +1,9 @@
+Hello, World!Hello, World!CREATE TABLE aaa(
+	id int parimary key auto_increment,
+	name varchar(32),
+	birthday datetime
+);
+
+
+
+
